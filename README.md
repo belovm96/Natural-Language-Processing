@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Homework Assignemnts
+Homework Assignments
