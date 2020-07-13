@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-COMS 4705 NLP HWs
+COMSW4705 NLP HWs
