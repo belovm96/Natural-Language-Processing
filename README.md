@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-NLP Projects & HWs
+NLP HWs
